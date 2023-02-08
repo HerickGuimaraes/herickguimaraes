@@ -21,4 +21,7 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herickguimaraes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-![Snake animation](https://github.com/herickguimaraes/herickguimaraes/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
